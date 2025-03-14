@@ -1,6 +1,6 @@
 {
-  "versionCode": 10,
-  "versionName": "1.2.4 ",
+  "versionCode": 999999,
+  "versionName": "12.96.0.42",
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
@@ -10,5 +10,5 @@ What's new:
 - Others minor changes.
 
 Thanks for using",
-  "downloadLink": "https://t.me/Android_play_apks"
+  "downloadLink": "https://t.me/Mods_Plus"
   }
